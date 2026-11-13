@@ -5,8 +5,8 @@ A jukebox simulator built in Python as part of my first-year Computing BSc at th
 
 ## Features
 - View a list of tracks
--  Play tracks
-- Create and update a track list
+- Build and play a playlist of tracks by track number
+- Update a track's star rating (1-5)
 
 
 ## Files
