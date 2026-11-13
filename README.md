@@ -10,7 +10,7 @@ A jukebox simulator built in Python as part of my first-year Computing BSc at th
 
 
 ## Files
-- `track_player.py`: The main window where you enter a track number and play it.
+- `track_player.py`: The main window, with buttons to view tracks, create a track list and update tracks.
 - `track_library.py`: Stores the collection of tracks and functions to look them up.
 - `view_tracks.py`: A window that lists all the tracks.
 - `create_track_list.py`: A window to build your own playlist.
